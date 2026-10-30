@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T13:43:50Z",
+  "generated_at": "2026-10-30T15:28:01Z",
   "categories": [
     "UI",
     "GAMEPLAY"
@@ -70,7 +70,7 @@
       "folder": "glass_menu_jo5k",
       "title": "Glass Menu - Jo5-k",
       "author": "Jo5-K",
-      "version": "0.1.7",
+      "version": "0.1.8",
       "summary": "Temas dos menus fora da batalha. / Field menu themes.",
       "repo": "https://github.com/Jo5-K/glass-menu-jo5-k",
       "github": "Jo5-K/glass-menu-jo5-k",
@@ -101,17 +101,17 @@
       "description_url": "https://github.com/Jo5-K/glass-menu-jo5-k#readme",
       "update_check": "ok",
       "first_release": "2026-10-30T12:43:32Z",
-      "last_release": "2026-10-30T13:42:51Z",
+      "last_release": "2026-10-30T15:27:47Z",
       "latest": {
-        "version": "0.1.7",
-        "tag": "v0.1.7",
-        "name": "Glass Menu - Jo5-k 0.1.7",
+        "version": "0.1.8",
+        "tag": "v0.1.8",
+        "name": "Glass Menu - Jo5-k 0.1.8",
         "prerelease": false,
-        "published_at": "2026-10-30T13:42:51Z",
+        "published_at": "2026-10-30T15:27:47Z",
         "zip": {
-          "name": "glass_menu_jo5k-0.1.7.zip",
-          "url": "https://github.com/Jo5-K/glass-menu-jo5-k/releases/download/v0.1.7/glass_menu_jo5k-0.1.7.zip",
-          "size": 18546
+          "name": "glass_menu_jo5k-0.1.8.zip",
+          "url": "https://github.com/Jo5-K/glass-menu-jo5-k/releases/download/v0.1.8/glass_menu_jo5k-0.1.8.zip",
+          "size": 19499
         }
       }
     },
