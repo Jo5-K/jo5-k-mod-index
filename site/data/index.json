@@ -1,0 +1,169 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-30T13:18:06Z",
+  "categories": [
+    "UI",
+    "GAMEPLAY"
+  ],
+  "base_games": [
+    "firered",
+    "leafgreen",
+    "ruby",
+    "sapphire",
+    "emerald"
+  ],
+  "mods": [
+    {
+      "id": "battle_menu_2d_jo5k",
+      "folder": "battle_menu_2d_jo5k",
+      "title": "2D Battle Menu - Jo5-k",
+      "author": "Jo5-K",
+      "version": "1.0.0-rc.2",
+      "summary": "Interface de batalha, cenários, iluminação e toque. / Battle UI, scenery, lighting and touch.",
+      "repo": "https://github.com/Jo5-K/2d-battle-menu-jo5-k",
+      "github": "Jo5-K/2d-battle-menu-jo5-k",
+      "api": 3,
+      "game_version": ">=0.3.97",
+      "games": [
+        "firered",
+        "leafgreen",
+        "ruby",
+        "sapphire",
+        "emerald"
+      ],
+      "categories": [
+        "UI"
+      ],
+      "tags": [
+        "gen3",
+        "jo5-k"
+      ],
+      "profile": "overhaul",
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [
+        "floating_glass_frlg"
+      ],
+      "affects_link": false,
+      "experimental": true,
+      "description_url": "https://github.com/Jo5-K/2d-battle-menu-jo5-k#readme",
+      "update_check": "ok",
+      "first_release": "2026-10-30T12:43:41Z",
+      "last_release": "2026-10-30T12:43:41Z",
+      "latest": {
+        "version": "1.0.0-rc.2",
+        "tag": "v1.0.0-rc.2",
+        "name": "Beta Final — pre-release 2",
+        "prerelease": true,
+        "published_at": "2026-10-30T12:43:41Z",
+        "zip": {
+          "name": "battle_menu_2d_jo5k-1.0.0-rc.2.zip",
+          "url": "https://github.com/Jo5-K/2d-battle-menu-jo5-k/releases/download/v1.0.0-rc.2/battle_menu_2d_jo5k-1.0.0-rc.2.zip",
+          "size": 109598252
+        }
+      }
+    },
+    {
+      "id": "glass_menu_jo5k",
+      "folder": "glass_menu_jo5k",
+      "title": "Glass Menu - Jo5-k",
+      "author": "Jo5-K",
+      "version": "0.1.4",
+      "summary": "Temas dos menus fora da batalha. / Field menu themes.",
+      "repo": "https://github.com/Jo5-K/glass-menu-jo5-k",
+      "github": "Jo5-K/glass-menu-jo5-k",
+      "api": 3,
+      "game_version": ">=0.3.97",
+      "games": [
+        "emerald",
+        "ruby",
+        "sapphire",
+        "firered",
+        "leafgreen"
+      ],
+      "categories": [
+        "UI"
+      ],
+      "tags": [
+        "gen3",
+        "jo5-k"
+      ],
+      "profile": "overhaul",
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "affects_link": false,
+      "experimental": true,
+      "description_url": "https://github.com/Jo5-K/glass-menu-jo5-k#readme",
+      "update_check": "ok",
+      "first_release": "2026-10-30T12:43:32Z",
+      "last_release": "2026-10-30T12:43:32Z",
+      "latest": {
+        "version": "0.1.4",
+        "tag": "v0.1.4",
+        "name": "Glass Menu - Jo5-k 0.1.4",
+        "prerelease": false,
+        "published_at": "2026-10-30T12:43:32Z",
+        "zip": {
+          "name": "glass_menu_jo5k-0.1.4.zip",
+          "url": "https://github.com/Jo5-K/glass-menu-jo5-k/releases/download/v0.1.4/glass_menu_jo5k-0.1.4.zip",
+          "size": 12571
+        }
+      }
+    },
+    {
+      "id": "rematch_gen3",
+      "folder": "rematch_gen3",
+      "title": "Rematch Gen3",
+      "author": "Jo5-K",
+      "version": "0.1.2",
+      "summary": "Revanches opcionais com treinadores. / Optional trainer rematches.",
+      "repo": "https://github.com/Jo5-K/rematch-gen3",
+      "github": "Jo5-K/rematch-gen3",
+      "api": 2,
+      "game_version": ">=0.3.93",
+      "games": [
+        "firered",
+        "leafgreen",
+        "ruby",
+        "sapphire",
+        "emerald"
+      ],
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "gen3",
+        "jo5-k"
+      ],
+      "profile": "overhaul",
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "affects_link": true,
+      "experimental": false,
+      "description_url": "https://github.com/Jo5-K/rematch-gen3#readme",
+      "update_check": "ok",
+      "first_release": "2026-10-27T13:54:56Z",
+      "last_release": "2026-10-27T13:54:56Z",
+      "latest": {
+        "version": "0.1.2",
+        "tag": "v0.1.2",
+        "name": "0.1.2",
+        "prerelease": false,
+        "published_at": "2026-10-27T13:54:56Z",
+        "zip": {
+          "name": "rematch_gen3-0.1.2.zip",
+          "url": "https://github.com/Jo5-K/rematch-gen3/releases/download/v0.1.2/rematch_gen3-0.1.2.zip",
+          "size": 8501
+        }
+      }
+    }
+  ]
+}
