@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-30T15:28:01Z",
+  "generated_at": "2026-11-01T15:22:30Z",
   "categories": [
     "UI",
     "GAMEPLAY"
@@ -18,7 +18,7 @@
       "folder": "battle_menu_2d_jo5k",
       "title": "2D Battle Menu - Jo5-k",
       "author": "Jo5-K",
-      "version": "1.0.0-rc.2",
+      "version": "1.0.0-rc.3",
       "summary": "Interface de batalha, cenários, iluminação e toque. / Battle UI, scenery, lighting and touch.",
       "repo": "https://github.com/Jo5-K/2d-battle-menu-jo5-k",
       "github": "Jo5-K/2d-battle-menu-jo5-k",
@@ -51,17 +51,17 @@
       "description_url": "https://github.com/Jo5-K/2d-battle-menu-jo5-k#readme",
       "update_check": "ok",
       "first_release": "2026-10-30T12:43:41Z",
-      "last_release": "2026-10-30T12:43:41Z",
+      "last_release": "2026-11-01T15:22:11Z",
       "latest": {
-        "version": "1.0.0-rc.2",
-        "tag": "v1.0.0-rc.2",
-        "name": "Beta Final — pre-release 2",
+        "version": "1.0.0-rc.3",
+        "tag": "v1.0.0-rc.3",
+        "name": "Beta Final — pre-release 3",
         "prerelease": true,
-        "published_at": "2026-10-30T12:43:41Z",
+        "published_at": "2026-11-01T15:22:11Z",
         "zip": {
-          "name": "battle_menu_2d_jo5k-1.0.0-rc.2.zip",
-          "url": "https://github.com/Jo5-K/2d-battle-menu-jo5-k/releases/download/v1.0.0-rc.2/battle_menu_2d_jo5k-1.0.0-rc.2.zip",
-          "size": 109598252
+          "name": "battle_menu_2d_jo5k-1.0.0-rc.3.zip",
+          "url": "https://github.com/Jo5-K/2d-battle-menu-jo5-k/releases/download/v1.0.0-rc.3/battle_menu_2d_jo5k-1.0.0-rc.3.zip",
+          "size": 109605128
         }
       }
     },
@@ -70,7 +70,7 @@
       "folder": "glass_menu_jo5k",
       "title": "Glass Menu - Jo5-k",
       "author": "Jo5-K",
-      "version": "0.1.8",
+      "version": "0.1.9",
       "summary": "Temas dos menus fora da batalha. / Field menu themes.",
       "repo": "https://github.com/Jo5-K/glass-menu-jo5-k",
       "github": "Jo5-K/glass-menu-jo5-k",
@@ -101,17 +101,17 @@
       "description_url": "https://github.com/Jo5-K/glass-menu-jo5-k#readme",
       "update_check": "ok",
       "first_release": "2026-10-30T12:43:32Z",
-      "last_release": "2026-10-30T15:27:47Z",
+      "last_release": "2026-11-01T15:22:16Z",
       "latest": {
-        "version": "0.1.8",
-        "tag": "v0.1.8",
-        "name": "Glass Menu - Jo5-k 0.1.8",
+        "version": "0.1.9",
+        "tag": "v0.1.9",
+        "name": "Glass Menu - Jo5-k 0.1.9",
         "prerelease": false,
-        "published_at": "2026-10-30T15:27:47Z",
+        "published_at": "2026-11-01T15:22:16Z",
         "zip": {
-          "name": "glass_menu_jo5k-0.1.8.zip",
-          "url": "https://github.com/Jo5-K/glass-menu-jo5-k/releases/download/v0.1.8/glass_menu_jo5k-0.1.8.zip",
-          "size": 19499
+          "name": "glass_menu_jo5k-0.1.9.zip",
+          "url": "https://github.com/Jo5-K/glass-menu-jo5-k/releases/download/v0.1.9/glass_menu_jo5k-0.1.9.zip",
+          "size": 21533
         }
       }
     },
