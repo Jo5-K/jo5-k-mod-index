@@ -6,8 +6,8 @@ PROJECTS = [
  ('Jo5-K/glass-menu-jo5-k', 'glass_menu_jo5k', 'Temas dos menus fora da batalha. / Field menu themes.'),
  ('Jo5-K/rematch-gen3-Jo5-k', 'rematch_gen3', 'Revanches opcionais com treinadores. / Optional trainer rematches.'),
  ('Jo5-K/Hoenn-PT-BR-Jo5-k', 'hoenn_ptbr_jo5k', 'Tradução PT-BR de Hoenn; requer FRLG PT-BR instalado. / Hoenn translation; requires installed FRLG PT-BR resources.'),
- ('Jo5-K/2.5D-Battle-Menu-Jo5-k', 'battle_menu_25d_jo5k', 'Projeto 2.5D com profundidade e paralaxe; sem release. / 2.5D depth and parallax project; no release yet.'),
- ('Jo5-K/Qol-Jo5-k', 'qol_jo5k', 'Em desenvolvimento, sem versão instalável. / In development, no installable release yet.'),
+ ('Jo5-K/2.5D-Battle-Menu-Jo5-k', 'battle_menu_25d_jo5k', 'Batalha 2.5D experimental com profundidade e paralaxe. / Experimental 2.5D battle with depth and parallax.'),
+ ('Jo5-K/Qol-Jo5-k', 'qol_jo5k', 'Qualidade de vida configurável: cura, XP, HMs, captura e outras opções. / Configurable healing, XP, HMs, catching and more.'),
 ]
 
 def api(path):

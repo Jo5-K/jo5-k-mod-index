@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T16:15:08Z",
+  "generated_at": "2026-11-04T23:35:52Z",
   "categories": [
     "UI",
     "GAMEPLAY",
@@ -38,7 +38,7 @@
       ],
       "experimental": true,
       "description_url": "https://github.com/Jo5-K/2d-battle-menu-jo5-k#readme",
-      "version": "1.0.0-rc.3",
+      "version": "1.0.0-rc.4",
       "api": 3,
       "game_version": ">=0.3.97",
       "profile": "overhaul",
@@ -52,17 +52,17 @@
       "affects_link": false,
       "update_check": "ok",
       "first_release": "2026-10-30T12:43:41Z",
-      "last_release": "2026-11-01T15:22:11Z",
+      "last_release": "2026-11-04T23:29:43Z",
       "latest": {
-        "version": "1.0.0-rc.3",
-        "tag": "v1.0.0-rc.3",
-        "name": "Beta Final — pre-release 3",
+        "version": "1.0.0-rc.4",
+        "tag": "v1.0.0-rc.4",
+        "name": "2D Battle Menu — compatibilidade com 2.5D",
         "prerelease": true,
-        "published_at": "2026-11-01T15:22:11Z",
+        "published_at": "2026-11-04T23:29:43Z",
         "zip": {
-          "name": "battle_menu_2d_jo5k-1.0.0-rc.3.zip",
-          "url": "https://github.com/Jo5-K/2d-battle-menu-jo5-k/releases/download/v1.0.0-rc.3/battle_menu_2d_jo5k-1.0.0-rc.3.zip",
-          "size": 109605128
+          "name": "battle_menu_2d_jo5k-1.0.0-rc.4.zip",
+          "url": "https://github.com/Jo5-K/2d-battle-menu-jo5-k/releases/download/v1.0.0-rc.4/battle_menu_2d_jo5k-1.0.0-rc.4.zip",
+          "size": 109606104
         }
       }
     },
@@ -196,7 +196,7 @@
       "folder": "battle_menu_25d_jo5k",
       "title": "2.5D Battle Menu - Jo5-k",
       "author": "Jo5-K",
-      "summary": "Projeto 2.5D com profundidade e paralaxe; sem release. / 2.5D depth and parallax project; no release yet. Sem release publicada. / No published release.",
+      "summary": "Batalha 2.5D experimental com profundidade e paralaxe. / Experimental 2.5D battle with depth and parallax.",
       "repo": "https://github.com/Jo5-K/2.5D-Battle-Menu-Jo5-k",
       "github": "Jo5-K/2.5D-Battle-Menu-Jo5-k",
       "games": [
@@ -211,39 +211,87 @@
       ],
       "tags": [
         "gen3",
-        "jo5-k",
-        "em-desenvolvimento"
+        "jo5-k"
       ],
       "experimental": true,
       "description_url": "https://github.com/Jo5-K/2.5D-Battle-Menu-Jo5-k#readme",
-      "update_check": "unavailable"
+      "version": "0.1.0-beta.1",
+      "api": 3,
+      "game_version": ">=0.3.97",
+      "profile": "overhaul",
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [
+        "floating_glass_frlg"
+      ],
+      "affects_link": false,
+      "update_check": "ok",
+      "first_release": "2026-11-04T23:31:47Z",
+      "last_release": "2026-11-04T23:31:47Z",
+      "latest": {
+        "version": "0.1.0-beta.1",
+        "tag": "v0.1.0-beta.1",
+        "name": "2.5D Battle Menu — paralaxe beta 1",
+        "prerelease": true,
+        "published_at": "2026-11-04T23:31:47Z",
+        "zip": {
+          "name": "battle_menu_25d_jo5k-0.1.0-beta.1.zip",
+          "url": "https://github.com/Jo5-K/2.5D-Battle-Menu-Jo5-k/releases/download/v0.1.0-beta.1/battle_menu_25d_jo5k-0.1.0-beta.1.zip",
+          "size": 109615964
+        }
+      }
     },
     {
       "id": "qol_jo5k",
       "folder": "qol_jo5k",
       "title": "Qol - Jo5-k",
       "author": "Jo5-K",
-      "summary": "Em desenvolvimento, sem versão instalável. / In development, no installable release yet. Sem release publicada. / No published release.",
+      "summary": "Qualidade de vida configurável: cura, XP, HMs, captura e outras opções. / Configurable healing, XP, HMs, catching and more.",
       "repo": "https://github.com/Jo5-K/Qol-Jo5-k",
       "github": "Jo5-K/Qol-Jo5-k",
       "games": [
-        "firered",
-        "leafgreen",
+        "emerald",
         "ruby",
         "sapphire",
-        "emerald"
+        "firered",
+        "leafgreen"
       ],
       "categories": [
         "GAMEPLAY"
       ],
       "tags": [
         "gen3",
-        "jo5-k",
-        "em-desenvolvimento"
+        "jo5-k"
       ],
       "experimental": true,
       "description_url": "https://github.com/Jo5-K/Qol-Jo5-k#readme",
-      "update_check": "unavailable"
+      "version": "0.1.0-beta.2",
+      "api": 3,
+      "game_version": ">=0.3.97",
+      "profile": "overhaul",
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "affects_link": true,
+      "update_check": "ok",
+      "first_release": "2026-11-04T23:16:35Z",
+      "last_release": "2026-11-04T23:33:57Z",
+      "latest": {
+        "version": "0.1.0-beta.2",
+        "tag": "v0.1.0-beta.2",
+        "name": "QoL - Jo5-k — beta 2",
+        "prerelease": true,
+        "published_at": "2026-11-04T23:33:57Z",
+        "zip": {
+          "name": "qol_jo5k-0.1.0-beta.2.zip",
+          "url": "https://github.com/Jo5-K/Qol-Jo5-k/releases/download/v0.1.0-beta.2/qol_jo5k-0.1.0-beta.2.zip",
+          "size": 10448
+        }
+      }
     }
   ]
 }

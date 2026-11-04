@@ -19,3 +19,6 @@ In the G1R launcher, open **Find mods → Indexes → Add** and enter `Jo5-K/jo5
 Lists six projects: 2D Battle Menu, Glass Menu, Rematch Gen3, Hoenn PT-BR, QoL and 2.5D Battle Menu. Legacy Floating Glass is excluded. Projects without a release remain listed as in development, without a fabricated download. Adding an index does not automatically install or enable mods.
 
 G1R schema 1; refreshes every six hours and supports manual workflow runs. Includes the battle menu pre-release. Supports all five Generation 3 games. Interface mods require G1R 0.3.97+; Rematch requires 0.3.93+.
+
+
+QoL e 2.5D já possuem betas instaláveis. Para manter 2D e 2.5D carregados juntos, use 2D 1.0.0-rc.4+ e escolha apenas uma apresentação em SELECT → Ajustes → Modo de batalha. Hoenn PT-BR continua listado sem release própria.
