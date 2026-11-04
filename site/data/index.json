@@ -122,8 +122,8 @@
       "author": "Jo5-K",
       "version": "0.1.2",
       "summary": "Revanches opcionais com treinadores. / Optional trainer rematches.",
-      "repo": "https://github.com/Jo5-K/rematch-gen3",
-      "github": "Jo5-K/rematch-gen3",
+      "repo": "https://github.com/Jo5-K/rematch-gen3-Jo5-k",
+      "github": "Jo5-K/rematch-gen3-Jo5-k",
       "api": 2,
       "game_version": ">=0.3.93",
       "games": [
@@ -148,7 +148,7 @@
       "conflicts": [],
       "affects_link": true,
       "experimental": false,
-      "description_url": "https://github.com/Jo5-K/rematch-gen3#readme",
+      "description_url": "https://github.com/Jo5-K/rematch-gen3-Jo5-k#readme",
       "update_check": "ok",
       "first_release": "2026-10-27T13:54:56Z",
       "last_release": "2026-10-27T13:54:56Z",
@@ -160,7 +160,7 @@
         "published_at": "2026-10-27T13:54:56Z",
         "zip": {
           "name": "rematch_gen3-0.1.2.zip",
-          "url": "https://github.com/Jo5-K/rematch-gen3/releases/download/v0.1.2/rematch_gen3-0.1.2.zip",
+          "url": "https://github.com/Jo5-K/rematch-gen3-Jo5-k/releases/download/v0.1.2/rematch_gen3-0.1.2.zip",
           "size": 8501
         }
       }

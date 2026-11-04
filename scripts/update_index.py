@@ -1,7 +1,7 @@
 """Generate the G1R schema v1 feed from published ZIP releases, including RCs."""
 import datetime,json,os,pathlib,urllib.request
 ROOT=pathlib.Path(__file__).resolve().parents[1]
-PROJECTS=[('Jo5-K/2d-battle-menu-jo5-k','battle_menu_2d_jo5k','Interface de batalha, cenários, iluminação e toque. / Battle UI, scenery, lighting and touch.'),('Jo5-K/glass-menu-jo5-k','glass_menu_jo5k','Temas dos menus fora da batalha. / Field menu themes.'),('Jo5-K/rematch-gen3','rematch_gen3','Revanches opcionais com treinadores. / Optional trainer rematches.')]
+PROJECTS=[('Jo5-K/2d-battle-menu-jo5-k','battle_menu_2d_jo5k','Interface de batalha, cenários, iluminação e toque. / Battle UI, scenery, lighting and touch.'),('Jo5-K/glass-menu-jo5-k','glass_menu_jo5k','Temas dos menus fora da batalha. / Field menu themes.'),('Jo5-K/rematch-gen3-Jo5-k','rematch_gen3','Revanches opcionais com treinadores. / Optional trainer rematches.')]
 def api(path):
  headers={'Accept':'application/vnd.github+json','User-Agent':'Jo5-K-Mod-Index'}
  token=os.getenv('GH_TOKEN') or os.getenv('GITHUB_TOKEN')
