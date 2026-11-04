@@ -1,9 +1,10 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T15:22:30Z",
+  "generated_at": "2026-11-04T16:15:08Z",
   "categories": [
     "UI",
-    "GAMEPLAY"
+    "GAMEPLAY",
+    "LANGUAGE"
   ],
   "base_games": [
     "firered",
@@ -18,12 +19,9 @@
       "folder": "battle_menu_2d_jo5k",
       "title": "2D Battle Menu - Jo5-k",
       "author": "Jo5-K",
-      "version": "1.0.0-rc.3",
       "summary": "Interface de batalha, cenários, iluminação e toque. / Battle UI, scenery, lighting and touch.",
       "repo": "https://github.com/Jo5-K/2d-battle-menu-jo5-k",
       "github": "Jo5-K/2d-battle-menu-jo5-k",
-      "api": 3,
-      "game_version": ">=0.3.97",
       "games": [
         "firered",
         "leafgreen",
@@ -38,6 +36,11 @@
         "gen3",
         "jo5-k"
       ],
+      "experimental": true,
+      "description_url": "https://github.com/Jo5-K/2d-battle-menu-jo5-k#readme",
+      "version": "1.0.0-rc.3",
+      "api": 3,
+      "game_version": ">=0.3.97",
       "profile": "overhaul",
       "permissions": [
         "engine_internals"
@@ -47,8 +50,6 @@
         "floating_glass_frlg"
       ],
       "affects_link": false,
-      "experimental": true,
-      "description_url": "https://github.com/Jo5-K/2d-battle-menu-jo5-k#readme",
       "update_check": "ok",
       "first_release": "2026-10-30T12:43:41Z",
       "last_release": "2026-11-01T15:22:11Z",
@@ -70,12 +71,9 @@
       "folder": "glass_menu_jo5k",
       "title": "Glass Menu - Jo5-k",
       "author": "Jo5-K",
-      "version": "0.1.9",
       "summary": "Temas dos menus fora da batalha. / Field menu themes.",
       "repo": "https://github.com/Jo5-K/glass-menu-jo5-k",
       "github": "Jo5-K/glass-menu-jo5-k",
-      "api": 3,
-      "game_version": ">=0.3.97",
       "games": [
         "emerald",
         "ruby",
@@ -90,6 +88,11 @@
         "gen3",
         "jo5-k"
       ],
+      "experimental": true,
+      "description_url": "https://github.com/Jo5-K/glass-menu-jo5-k#readme",
+      "version": "0.1.9",
+      "api": 3,
+      "game_version": ">=0.3.97",
       "profile": "overhaul",
       "permissions": [
         "engine_internals"
@@ -97,8 +100,6 @@
       "dependencies": [],
       "conflicts": [],
       "affects_link": false,
-      "experimental": true,
-      "description_url": "https://github.com/Jo5-K/glass-menu-jo5-k#readme",
       "update_check": "ok",
       "first_release": "2026-10-30T12:43:32Z",
       "last_release": "2026-11-01T15:22:16Z",
@@ -120,12 +121,9 @@
       "folder": "rematch_gen3",
       "title": "Rematch Gen3",
       "author": "Jo5-K",
-      "version": "0.1.2",
       "summary": "Revanches opcionais com treinadores. / Optional trainer rematches.",
       "repo": "https://github.com/Jo5-K/rematch-gen3-Jo5-k",
       "github": "Jo5-K/rematch-gen3-Jo5-k",
-      "api": 2,
-      "game_version": ">=0.3.93",
       "games": [
         "firered",
         "leafgreen",
@@ -140,6 +138,11 @@
         "gen3",
         "jo5-k"
       ],
+      "experimental": true,
+      "description_url": "https://github.com/Jo5-K/rematch-gen3-Jo5-k#readme",
+      "version": "0.1.2",
+      "api": 2,
+      "game_version": ">=0.3.93",
       "profile": "overhaul",
       "permissions": [
         "engine_internals"
@@ -147,8 +150,6 @@
       "dependencies": [],
       "conflicts": [],
       "affects_link": true,
-      "experimental": false,
-      "description_url": "https://github.com/Jo5-K/rematch-gen3-Jo5-k#readme",
       "update_check": "ok",
       "first_release": "2026-10-27T13:54:56Z",
       "last_release": "2026-10-27T13:54:56Z",
@@ -164,6 +165,85 @@
           "size": 8501
         }
       }
+    },
+    {
+      "id": "hoenn_ptbr_jo5k",
+      "folder": "hoenn_ptbr_jo5k",
+      "title": "[PT-BR] Hoenn - Jo5-k",
+      "author": "Jo5-K",
+      "summary": "Tradução PT-BR de Hoenn; requer FRLG PT-BR instalado. / Hoenn translation; requires installed FRLG PT-BR resources. Sem release publicada. / No published release.",
+      "repo": "https://github.com/Jo5-K/Hoenn-PT-BR-Jo5-k",
+      "github": "Jo5-K/Hoenn-PT-BR-Jo5-k",
+      "games": [
+        "emerald",
+        "ruby",
+        "sapphire"
+      ],
+      "categories": [
+        "LANGUAGE"
+      ],
+      "tags": [
+        "gen3",
+        "jo5-k",
+        "em-desenvolvimento"
+      ],
+      "experimental": true,
+      "description_url": "https://github.com/Jo5-K/Hoenn-PT-BR-Jo5-k#readme",
+      "update_check": "unavailable"
+    },
+    {
+      "id": "battle_menu_25d_jo5k",
+      "folder": "battle_menu_25d_jo5k",
+      "title": "2.5D Battle Menu - Jo5-k",
+      "author": "Jo5-K",
+      "summary": "Projeto 2.5D com profundidade e paralaxe; sem release. / 2.5D depth and parallax project; no release yet. Sem release publicada. / No published release.",
+      "repo": "https://github.com/Jo5-K/2.5D-Battle-Menu-Jo5-k",
+      "github": "Jo5-K/2.5D-Battle-Menu-Jo5-k",
+      "games": [
+        "firered",
+        "leafgreen",
+        "ruby",
+        "sapphire",
+        "emerald"
+      ],
+      "categories": [
+        "UI"
+      ],
+      "tags": [
+        "gen3",
+        "jo5-k",
+        "em-desenvolvimento"
+      ],
+      "experimental": true,
+      "description_url": "https://github.com/Jo5-K/2.5D-Battle-Menu-Jo5-k#readme",
+      "update_check": "unavailable"
+    },
+    {
+      "id": "qol_jo5k",
+      "folder": "qol_jo5k",
+      "title": "Qol - Jo5-k",
+      "author": "Jo5-K",
+      "summary": "Em desenvolvimento, sem versão instalável. / In development, no installable release yet. Sem release publicada. / No published release.",
+      "repo": "https://github.com/Jo5-K/Qol-Jo5-k",
+      "github": "Jo5-K/Qol-Jo5-k",
+      "games": [
+        "firered",
+        "leafgreen",
+        "ruby",
+        "sapphire",
+        "emerald"
+      ],
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "gen3",
+        "jo5-k",
+        "em-desenvolvimento"
+      ],
+      "experimental": true,
+      "description_url": "https://github.com/Jo5-K/Qol-Jo5-k#readme",
+      "update_check": "unavailable"
     }
   ]
 }
