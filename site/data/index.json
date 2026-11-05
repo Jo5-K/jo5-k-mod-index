@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T23:35:52Z",
+  "generated_at": "2026-11-05T14:23:59Z",
   "categories": [
     "UI",
     "GAMEPLAY",
@@ -171,7 +171,7 @@
       "folder": "hoenn_ptbr_jo5k",
       "title": "[PT-BR] Hoenn - Jo5-k",
       "author": "Jo5-K",
-      "summary": "Tradução PT-BR de Hoenn; requer FRLG PT-BR instalado. / Hoenn translation; requires installed FRLG PT-BR resources. Sem release publicada. / No published release.",
+      "summary": "Tradução PT-BR de Hoenn; requer FRLG PT-BR instalado. / Hoenn translation; requires installed FRLG PT-BR resources.",
       "repo": "https://github.com/Jo5-K/Hoenn-PT-BR-Jo5-k",
       "github": "Jo5-K/Hoenn-PT-BR-Jo5-k",
       "games": [
@@ -184,12 +184,35 @@
       ],
       "tags": [
         "gen3",
-        "jo5-k",
-        "em-desenvolvimento"
+        "jo5-k"
       ],
       "experimental": true,
       "description_url": "https://github.com/Jo5-K/Hoenn-PT-BR-Jo5-k#readme",
-      "update_check": "unavailable"
+      "version": "0.1.0-beta.1",
+      "api": 3,
+      "game_version": ">=0.3.97 <1.0.0",
+      "profile": "content",
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "affects_link": false,
+      "update_check": "ok",
+      "first_release": "2026-11-05T14:23:52Z",
+      "last_release": "2026-11-05T14:23:52Z",
+      "latest": {
+        "version": "0.1.0-beta.1",
+        "tag": "v0.1.0-beta.1",
+        "name": "Hoenn PT-BR — primeira beta",
+        "prerelease": true,
+        "published_at": "2026-11-05T14:23:52Z",
+        "zip": {
+          "name": "hoenn_ptbr_jo5k-0.1.0-beta.1.zip",
+          "url": "https://github.com/Jo5-K/Hoenn-PT-BR-Jo5-k/releases/download/v0.1.0-beta.1/hoenn_ptbr_jo5k-0.1.0-beta.1.zip",
+          "size": 574422
+        }
+      }
     },
     {
       "id": "battle_menu_25d_jo5k",
@@ -267,7 +290,7 @@
       ],
       "experimental": true,
       "description_url": "https://github.com/Jo5-K/Qol-Jo5-k#readme",
-      "version": "0.1.0-beta.2",
+      "version": "0.1.0-beta.3",
       "api": 3,
       "game_version": ">=0.3.97",
       "profile": "overhaul",
@@ -279,17 +302,17 @@
       "affects_link": true,
       "update_check": "ok",
       "first_release": "2026-11-04T23:16:35Z",
-      "last_release": "2026-11-04T23:33:57Z",
+      "last_release": "2026-11-05T14:23:49Z",
       "latest": {
-        "version": "0.1.0-beta.2",
-        "tag": "v0.1.0-beta.2",
-        "name": "QoL - Jo5-k — beta 2",
+        "version": "0.1.0-beta.3",
+        "tag": "v0.1.0-beta.3",
+        "name": "QoL beta 3 — correção do menu Gen3",
         "prerelease": true,
-        "published_at": "2026-11-04T23:33:57Z",
+        "published_at": "2026-11-05T14:23:49Z",
         "zip": {
-          "name": "qol_jo5k-0.1.0-beta.2.zip",
-          "url": "https://github.com/Jo5-K/Qol-Jo5-k/releases/download/v0.1.0-beta.2/qol_jo5k-0.1.0-beta.2.zip",
-          "size": 10448
+          "name": "qol_jo5k-0.1.0-beta.3.zip",
+          "url": "https://github.com/Jo5-K/Qol-Jo5-k/releases/download/v0.1.0-beta.3/qol_jo5k-0.1.0-beta.3.zip",
+          "size": 10892
         }
       }
     }
