@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T14:23:59Z",
+  "generated_at": "2026-11-25T21:42:55Z",
   "categories": [
     "UI",
     "GAMEPLAY",
@@ -186,31 +186,29 @@
         "gen3",
         "jo5-k"
       ],
-      "experimental": true,
+      "experimental": false,
       "description_url": "https://github.com/Jo5-K/Hoenn-PT-BR-Jo5-k#readme",
-      "version": "0.1.0-beta.1",
-      "api": 3,
-      "game_version": ">=0.3.97 <1.0.0",
+      "version": "0.2.0-beta.1",
+      "api": 2,
+      "game_version": ">=0.3.93 <1.0.0",
       "profile": "content",
-      "permissions": [
-        "engine_internals"
-      ],
+      "permissions": [],
       "dependencies": [],
       "conflicts": [],
       "affects_link": false,
       "update_check": "ok",
       "first_release": "2026-11-05T14:23:52Z",
-      "last_release": "2026-11-05T14:23:52Z",
+      "last_release": "2026-11-25T20:34:32Z",
       "latest": {
-        "version": "0.1.0-beta.1",
-        "tag": "v0.1.0-beta.1",
-        "name": "Hoenn PT-BR — primeira beta",
+        "version": "0.2.0-beta.1",
+        "tag": "v0.2.0-beta.1",
+        "name": "Hoenn PT-BR 0.2.0-beta.1 — independente e correção Android",
         "prerelease": true,
-        "published_at": "2026-11-05T14:23:52Z",
+        "published_at": "2026-11-25T20:34:32Z",
         "zip": {
-          "name": "hoenn_ptbr_jo5k-0.1.0-beta.1.zip",
-          "url": "https://github.com/Jo5-K/Hoenn-PT-BR-Jo5-k/releases/download/v0.1.0-beta.1/hoenn_ptbr_jo5k-0.1.0-beta.1.zip",
-          "size": 574422
+          "name": "hoenn_ptbr_jo5k-0.2.0-beta.1.zip",
+          "url": "https://github.com/Jo5-K/Hoenn-PT-BR-Jo5-k/releases/download/v0.2.0-beta.1/hoenn_ptbr_jo5k-0.2.0-beta.1.zip",
+          "size": 627592
         }
       }
     },
